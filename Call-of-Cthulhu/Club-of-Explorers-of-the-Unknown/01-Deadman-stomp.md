@@ -1,4 +1,4 @@
-# Поступь мертвеца
+# Поступь мертвеца, Гарлемское дело
 
 🔖 [Содержание](https://github.com/8kto/ttrpg-recaps/tree/main/Call-of-Cthulhu/Club-of-Explorers-of-the-Unknown)
 
