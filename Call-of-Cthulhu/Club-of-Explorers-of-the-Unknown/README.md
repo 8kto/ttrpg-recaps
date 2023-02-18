@@ -5,7 +5,7 @@
 
 ## Грегори Ливси
 
-<img src="https://user-images.githubusercontent.com/18572703/216686721-3314a9c7-f011-40a8-a9a7-2a38984cd890.png" />
+<img align="left" width="300" src="https://user-images.githubusercontent.com/18572703/219871766-15702fa5-1ac4-499f-b21c-91b7bc965de8.png"  />
 
 Профессор Ливси - сухонький пожилой мужчина, невысокий. Куратор клуба, преподаёт лингвистику и историю в этом же университете.
 
