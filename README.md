@@ -1,6 +1,7 @@
-# ttrpg-recaps
+# Рекапы ролевых игр
 
-Краткие обзоры ролевых игр по системам:
++ [Call of Cthulhu](https://github.com/8kto/ttrpg-recaps/tree/main/Call-of-Cthulhu)
 
-+ Call of Cthulhu
-+ TBD: Mothership
+
+## To do
++ Mothership
