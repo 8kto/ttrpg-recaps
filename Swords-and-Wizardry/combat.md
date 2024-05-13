@@ -1,6 +1,7 @@
 # Сражение и Боевые опции
 
-Краткий пересказ Specific Situations (S&W Revised, p. 40) с хомрулами и дополнениями из других систем.
+Краткий пересказ Specific Situations (S&W Revised, p. 40) с хомрулами и дополнениями из других систем. Страницы указаны
+для Complete рулбука.
 
 [Краткая AI-выжимка правил из S&W Complete](./snw-combat-specific.md).
 
