@@ -24,6 +24,7 @@
 
 * [Источники](#%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8)
   - [S&W Revised](#sw-revised)
+  - [S&W Quickstart (0e reloaded)](#sw-quickstart-0e-reloaded)
   - [OSRIC](#osric)
   - [AD&D 1e](#add-1e)
   - [LL Advanced companion](#ll-advanced-companion)
@@ -110,7 +111,7 @@
 Зажжённую флягу с маслом можно использовать как метательное оружие (коктейль Молотова), чтобы нанести 1d4 единиц урона
 при успешном попадании и еще 1 единицу урона за раунд в течение следующих 2 раундов. Если фляга заранее не подготовлена
 (не вставлен фитиль из полоски ткани), то подготовка также занимает 1 раунд. У персонажа должны быть средства, чтобы
-поджечь фитиль — спички, кремень и кресало, факел, т.д.
+поджечь фитиль — спички, кремень и кресало, факел, т.д. Расстояние — 10 футов, далее со штрафом к To-Hit.
 
 ## 0 хитов, смерть
 
@@ -168,6 +169,14 @@ the front. Thieves and Assassins can get behind a target during normal combat if
 if no one is attacking the target from the front.
 
 Home brew **battle options**: https://web.archive.org/web/20201031152318/https://www.d20swsrd.com/home-brews/
+
+## S&W Quickstart (0e reloaded)
+
+It’s worth mentioning that those same oil flasks used to fill lanterns can be used as **flaming bombs**. You can make an
+oil flask into a type of bomb and throw it at a monster, attempting to cover it with burning oil. To do so, you have to
+use a full flask of oil, spend your combat round preparing and lighting it, and then you can throw it the next round. If
+you successfully hit the monster, it is burned for 2d6 (2 six-sided dice) of damage! If you miss, though, you might end
+up hitting one of your friends! You also have to be fairly close (10 feet away) to do this.
 
 ## OSRIC
 
