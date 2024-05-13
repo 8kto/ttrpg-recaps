@@ -1,4 +1,6 @@
-# Swords & Wizardry (Complete/Revised) Используемые правила и хомрулы
+# Swords & Wizardry (Complete/Revised) 
+
+Используемые правила и хомрулы
 
 - При создании нового персонажа: [FAQ и используемые правила](./faq.md)
 - [Сражение и Боевые опции](./combat.md)
