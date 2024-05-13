@@ -1,4 +1,5 @@
 # Сражение и Боевые опции
+![image](https://github.com/8kto/ttrpg-recaps/assets/18572703/f3e3743b-459a-4676-aaaa-5d3dff1e7b54)
 
 Краткий пересказ Specific Situations (S&W Revised, p. 40) с хомрулами и дополнениями из других систем. Страницы указаны
 для Complete рулбука.
