@@ -1,4 +1,4 @@
-# Swords & Wizardry (Complete/Revised) 
+# Swords & Wizardry (Complete/Revised)
 
 Используемые правила и хомрулы
 

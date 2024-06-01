@@ -2,6 +2,7 @@
 
 + [Call of Cthulhu](https://github.com/8kto/ttrpg-recaps/tree/main/Call-of-Cthulhu)
 + [Плач Огненной Принцессы](https://github.com/8kto/ttrpg-recaps/tree/main/LotFP)
++ [Swords & Wizardry](https://github.com/8kto/ttrpg-recaps/tree/main/Swords-and-Wizardry)
 
 
 ## To do
