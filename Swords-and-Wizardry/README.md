@@ -11,3 +11,4 @@
 ```sh
 for f in $(find . -name "*.md"); do npx markdown-toc -i $f ; npx prettier --write $f ;done
 ```
+
