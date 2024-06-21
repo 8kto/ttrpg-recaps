@@ -4,7 +4,6 @@
 - [Плач Огненной Принцессы](./LotFP)
 - [Swords & Wizardry](./Swords-and-Wizardry)
 
-
 ---
 
 Как форматировать Markdown и добавить содержание
