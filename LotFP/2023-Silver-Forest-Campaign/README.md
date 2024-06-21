@@ -33,8 +33,3 @@
 - [Некоторые важные и домашние правила](./RULES.md)
 - [На что тратить сокровища](./HOWTO.MONEY.md)
 
-## Как форматировать Markdown и добавить содержание
-
-```sh
-for f in *.md; do npx markdown-toc -i $f ; npx prettier --write $f ;done
-```
