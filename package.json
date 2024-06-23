@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "format:fix": "for f in $(find . -name \"*.md\"); do npx markdown-toc -i $f ; npx prettier --write $f ;done"
+    "update-toc": "find . -name '*.md' -not -path './node_modules/*' -print0 | xargs -0 -I {} sh -c 'npx markdown-toc -i \"$1\"' sh {}",
+    "format-files": "npx prettier --write \"**/*.md\" --ignore-path .prettierignore",
+    "format:fix": "npm run update-toc && npm run format-files"
   },
   "devDependencies": {
     "prettier": "^3.2.5"
