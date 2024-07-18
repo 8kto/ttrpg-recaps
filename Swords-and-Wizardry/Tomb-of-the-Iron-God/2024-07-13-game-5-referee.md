@@ -69,6 +69,7 @@
 - Вожак ЛДОЫРВ, по рассказам гоблина
 
 
+## Карта игроков
 ![mipui](https://github.com/user-attachments/assets/3c55053c-485c-4991-91ba-9519e578f48d)
 
 
