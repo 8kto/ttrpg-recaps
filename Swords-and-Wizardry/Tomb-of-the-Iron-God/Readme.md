@@ -5,14 +5,11 @@
 
 <a href="https://github.com/user-attachments/assets/fb177e88-57e9-4f2d-8956-5642c741f0a7" title="By William McAusland
 (Outland Arts)"
-
 >
-
     <img
     	src="https://github.com/user-attachments/assets/fb177e88-57e9-4f2d-8956-5642c741f0a7"
     	style="width:800px"
     />
-
 </a>
 
 <!--
@@ -25,7 +22,7 @@
 
 - [Игра 1](./2024-05-05-game-1.md)
 - [Игра 2](./2024-05-11-game-2.md)
-- Третья игра: [отчёт Locke](./2024-06-22-game-3.md) и [отчёт рефери](./2024-06-22-game-3--undefined.md)
+- Игра 3: [отчёт игрока](./2024-06-22-game-3.md) и [отчёт рефери](./2024-06-22-game-3--undefined.md)
 - [Игра 4](./2024-06-30-game-4.md)
 - [Игра 5](./2024-07-13-game-5.md)
 - [Игра 6](./2024-07-21-game-6.md)
