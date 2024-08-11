@@ -1,7 +1,7 @@
 # Гробница Железного Бога
 
 - Модуль: Tomb of the Iron God
-- Система: Swords & Wizardry ~~Complete/~~Revised
+- Система: Swords & Wizardry ~Complete~ Revised
 
 <a href="https://github.com/user-attachments/assets/fb177e88-57e9-4f2d-8956-5642c741f0a7" title="By William McAusland
 (Outland Arts)"> <img
