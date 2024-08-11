@@ -1,7 +1,7 @@
 # Гробница Железного Бога
 
 - Модуль: Tomb of the Iron God
-- Система: Swords & Wizardry Complete/Revised
+- Система: Swords & Wizardry ~~Complete/~~Revised
 
 <a href="https://github.com/user-attachments/assets/fb177e88-57e9-4f2d-8956-5642c741f0a7" title="By William McAusland
 (Outland Arts)"> <img
@@ -25,3 +25,4 @@
 - [Игра 5, в которой отряд сталкивается с силами гоблинов и таинственной фигурой в балахоне](./2024-07-13-game-5.md)
 - [Игра 6, в которой конфликт с гоблинами оканчивается в их логове](./2024-07-21-game-6.md)
 - [Игра 7, в которой отряд попадает в комнату с непроглядной тьмой](./2024-07-27-game-7.md)
+- [Игра 8, в которой срываются похороны](./2024-08-03-game-8.md)
