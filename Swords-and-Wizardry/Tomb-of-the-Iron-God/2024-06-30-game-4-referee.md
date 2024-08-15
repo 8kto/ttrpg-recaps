@@ -1,5 +1,8 @@
 # Экспедиция в гробницу Железного Бога, экспедиция 4 (сводка)
 
+<a title="Карта игроков" targe="_blank" href="https://www.mipui.net/app/index.html?mid=mmmuwhzl648">Открыть
+интерактивную карту</a>
+
 ## Игроки
 
 Рефери: [undefined](https://t.me/oktottrpg)
