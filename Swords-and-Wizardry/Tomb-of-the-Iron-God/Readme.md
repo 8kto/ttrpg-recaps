@@ -1,7 +1,7 @@
 # Гробница Железного Бога
 
 - Модуль: Tomb of the Iron God
-- Система: Swords & Wizardry ~Complete~ Revised
+- Система: Swords & Wizardry Complete Revised
 
 <a href="https://github.com/user-attachments/assets/fb177e88-57e9-4f2d-8956-5642c741f0a7" title="By William McAusland
 (Outland Arts)"> <img
@@ -30,3 +30,4 @@
 - [Экспедиция 8](./2024-08-03-game-8.md), в которой срываются похороны
 - [Экспедиция 9](./2024-08-10-game-9.md), в которой все решили отдохнуть
 - [Экспедиция 10](./2024-08-18-game-10.md), в которой прозвенел звоночек, а на привале сочинили басню
+- [Экспедиция 11](./2024-08-24-game-11.md), в которой проведали башню пропавшего колдуна
