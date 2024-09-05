@@ -1,12 +1,10 @@
-# Замок Зинтиллан, игра 2
-
+# Игра 2, новые встречи и потери, внутренний двор и садик. Гил Малеволь.
 
 <a title="by John Provencher" href="https://github.com/user-attachments/assets/3ed0d310-d2bb-4f74-979c-87c7f9455245">
 	<img src="https://github.com/user-attachments/assets/3ed0d310-d2bb-4f74-979c-87c7f9455245" style="width:800px" />
 </a>
 
 Игра от 2024-06-08. Отчёт рефери.
-
 
 <!--
 <a title="" href="">
