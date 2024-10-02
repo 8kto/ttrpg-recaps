@@ -89,6 +89,14 @@
 
 <!-- toc -->
 
+- [Карта игроков](#%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2)
+- [Strict Time Records](#strict-time-records)
+- [Потери](#%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D0%B8)
+- [Расчёт опыта и золота](#%D1%80%D0%B0%D1%81%D1%87%D1%91%D1%82-%D0%BE%D0%BF%D1%8B%D1%82%D0%B0-%D0%B8-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0)
+  - [Сокровища](#%D1%81%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B8%D1%89%D0%B0)
+  - [Опыт за монстров](#%D0%BE%D0%BF%D1%8B%D1%82-%D0%B7%D0%B0-%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2)
+  - [Расчёт](#%D1%80%D0%B0%D1%81%D1%87%D1%91%D1%82)
+
 <!-- tocstop -->
 
 ### Карта игроков
@@ -96,7 +104,6 @@
 <a title="" href="https://github.com/user-attachments/assets/03128873-2b0e-4f5d-abeb-01bac5942ebf">
   <img src="https://github.com/user-attachments/assets/03128873-2b0e-4f5d-abeb-01bac5942ebf" style="width:400px" />
 </a>
-
 
 <!--
 <a title="" href="">
