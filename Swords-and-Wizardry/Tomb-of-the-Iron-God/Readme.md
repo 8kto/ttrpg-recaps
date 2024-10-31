@@ -1,6 +1,6 @@
 # Гробница Железного Бога
 
-- Модуль: Tomb of the Iron God & Gibbering tower
+- Модули: Tomb of the Iron God, Gibbering tower, авторское
 - Система: Swords & Wizardry Complete Revised
 
 <a href="https://github.com/user-attachments/assets/fb177e88-57e9-4f2d-8956-5642c741f0a7" title="By William McAusland
@@ -35,3 +35,4 @@
 - [Экспедиция 13](./2024-09-22-game-13.md), в которой погоня за сокровищами обернулась вокруг своей оси
 - [Экспедиция 14](./2024-09-29-game-14.md), в которой сбываются тревожные сны
 - [Экспедиция 15](./2024-10-13-game-15.md), в которой получен опыт игр старой школы
+- [Экспедиция 16](./2024-10-13-game-15.md), Mors Principium Est
