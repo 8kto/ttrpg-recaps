@@ -1,4 +1,4 @@
-# Игра 3, спуск вниз, встреча с отшельником и мёртвыми монашками
+# Игра 3, спуск вниз, встреча с отшельником и мёртвыми сёстрами
 
 <a title="" href="https://github.com/user-attachments/assets/a5606780-b26a-4a39-8649-c3035749fd36">
   <img src="https://github.com/user-attachments/assets/a5606780-b26a-4a39-8649-c3035749fd36" style="width:800px" />
