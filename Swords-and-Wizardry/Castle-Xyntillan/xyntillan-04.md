@@ -118,13 +118,13 @@
 
 ### Карта игроков
 
-<a title="" href="https://github.com/user-attachments/assets/03128873-2b0e-4f5d-abeb-01bac5942ebf">
-  <img src="https://github.com/user-attachments/assets/03128873-2b0e-4f5d-abeb-01bac5942ebf" style="width:400px" />
+<a title="" href="https://github.com/user-attachments/assets/da513405-1f8e-4784-9008-e0406d6a4a8e">
+  <img src="https://github.com/user-attachments/assets/da513405-1f8e-4784-9008-e0406d6a4a8e" style="width:800px" />
 </a>
 
 <!--
 <a title="" href="">
-  <img src="" style="width:400px" />
+  <img src="" style="width:800px" />
 </a>
 -->
 
