@@ -82,8 +82,8 @@
 
 ### Карта игроков
 
-<a title="" href="https://github.com/user-attachments/assets/03128873-2b0e-4f5d-abeb-01bac5942ebf">
-  <img src="https://github.com/user-attachments/assets/03128873-2b0e-4f5d-abeb-01bac5942ebf" style="width:400px" />
+<a title="" href="https://github.com/user-attachments/assets/881a1b7f-937c-4a97-91fc-a61cff717f5c">
+  <img src="https://github.com/user-attachments/assets/881a1b7f-937c-4a97-91fc-a61cff717f5c" style="width:800px" />
 </a>
 
 <!--
