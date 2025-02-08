@@ -67,7 +67,6 @@
 
 [Предыдущая часть](./xyntillan-04.md) | [Содержание](./Readme.md)
 
-
 ## Appendix
 
 <!-- toc -->
