@@ -1,5 +1,16 @@
 # Зловещая Изометрия Каргохтонотепа
 
+<a title="Зловещая Изометрия Каргохтонотепа" href="https://github.com/user-attachments/assets/2dc38a51-c9f4-4e33-bc0f-8d7fedf977c1">
+  <img src="https://github.com/user-attachments/assets/2dc38a51-c9f4-4e33-bc0f-8d7fedf977c1" style="width:600px" />
+</a>
+
+<!--
+<a title="" href="">
+  <img src="" style="width:800px" />
+</a>
+-->
+
+
 ## Пролог
 
 > Шла вторая неделя разгромного кутежа по всем злачным уголкам округи, ваш отряд просаживал добытые сокровища. В пылу
