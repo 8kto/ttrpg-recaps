@@ -4,6 +4,8 @@
   <img src="https://github.com/user-attachments/assets/8b6fb576-a2c1-45d7-a910-d0f94748975d" style="width:800px" />
 </a>
 
+Отчёт от Георгия.
+
 <!--
 <a title="" href="">
   <img src="" style="width:800px" />
@@ -129,7 +131,9 @@
 
 #### Сокровища
 
-- Нет
+- 25 зм, 23 см, 5 мм = 28 XP
+
+Каждому: 5 XP
 
 #### Опыт за монстров
 
