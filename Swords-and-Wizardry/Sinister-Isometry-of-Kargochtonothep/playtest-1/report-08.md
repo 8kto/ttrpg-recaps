@@ -1,3 +1,5 @@
+# Сессия 8, в которой пробились на поверхность и отправили караван
+
 <a title="" href="https://github.com/user-attachments/assets/f225a90d-e681-47ec-b09e-b61d4b3f1915">
   <img src="https://github.com/user-attachments/assets/f225a90d-e681-47ec-b09e-b61d4b3f1915" style="width:800px" />
 </a>
@@ -22,8 +24,8 @@
 - Повернули Колесо, вышли в коридор с дождём
 - Направились в библиотеку, услышали скрежет и приготовились к бою
 
- ## Appendix
- 
+## Appendix
+
 <!-- toc -->
 
 - [Игроки](#%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%B8)
