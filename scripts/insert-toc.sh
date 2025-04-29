@@ -61,6 +61,7 @@ generate_toc() {
         title=$(extract_title "$file")
         local basename
         basename=$(basename "$file")
+        echo "Found <$title>"
         [[ -n "$title" ]] && printf -- "- [%s](./%s)\n" "$title" "$basename" >> "$toc_file"
     done
 }

@@ -2,7 +2,8 @@
   "scripts": {
     "update-toc": "find . -name '*.md' -not -path './node_modules/*' -print0 | xargs -0 -I {} sh -c 'npx markdown-toc -i \"$1\"' sh {}",
     "format-files": "npx prettier --write \"**/*.md\" --ignore-path .prettierignore",
-    "format:fix": "npm run update-toc && npm run format-files"
+    "format:fix": "npm run update-toc && npm run format-files",
+    "insert-toc:isometry": "./scripts/insert-toc.sh Swords-and-Wizardry/Sinister-Isometry-of-Kargochtonothep/playtest-1/Readme.md Swords-and-Wizardry/Sinister-Isometry-of-Kargochtonothep/playtest-1/"
   },
   "devDependencies": {
     "prettier": "^3.2.5"
