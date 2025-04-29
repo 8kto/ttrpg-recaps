@@ -37,7 +37,7 @@
 
 Рефери: [undefined](https://t.me/oktottrpg)
 
-- Ширин (ассасин 3), [Квак](https://t.me/troglog)
+- Ширин (ассасин 4), [Квак](https://t.me/troglog)
 - Хафра (маг 4), Илья
 - Ранеб (воин 4), Никита
 
