@@ -1,4 +1,4 @@
-# Сессия 1, в которой отряд прибывает к руинам, и впервые сталкивается со смертельными ловушками
+# Сессия 1, в которой отряд прибывает к руинам, и впервые сталкивается со смертельными ловушками \*\*
 
 <a title="" href="https://github.com/user-attachments/assets/8b6fb576-a2c1-45d7-a910-d0f94748975d">
   <img src="https://github.com/user-attachments/assets/8b6fb576-a2c1-45d7-a910-d0f94748975d" style="width:800px" />

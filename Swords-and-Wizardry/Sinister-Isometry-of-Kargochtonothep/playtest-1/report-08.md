@@ -1,4 +1,4 @@
-# Сессия 8, в которой пробились на поверхность и отправили караван
+# Сессия 8, в которой пробились на поверхность и отправили караван \*
 
 <a title="" href="https://github.com/user-attachments/assets/f225a90d-e681-47ec-b09e-b61d4b3f1915">
   <img src="https://github.com/user-attachments/assets/f225a90d-e681-47ec-b09e-b61d4b3f1915" style="width:800px" />

@@ -1,4 +1,4 @@
-# Сессия 2, в которой чаша проявляет свои свойства, а группа находит затонувший корабль
+# Сессия 2, в которой чаша проявляет свои свойства, а группа находит затонувший корабль \*\*
 
 <a title="" href="https://github.com/user-attachments/assets/e1fe5a55-5283-4c09-82fb-d38a99d161f3">
   <img src="https://github.com/user-attachments/assets/e1fe5a55-5283-4c09-82fb-d38a99d161f3" style="width:800px" />
